@@ -1,7 +1,6 @@
-
 using ConvertToRomanNumerals;
 
-namespace ConvertToRomanNumeralsTest
+namespace RomanNumeralsConverterTests
 {
     public class RomanNumeralsTest
     {
